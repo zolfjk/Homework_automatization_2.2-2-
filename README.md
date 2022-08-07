@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/1yvrnpk1nv931ali?svg=true)](https://ci.appveyor.com/project/zolfjk/homework-automatization-2-2-2)
